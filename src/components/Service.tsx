@@ -5,7 +5,7 @@ import homeImg from "@/assets/Home.svg";
 import buildImage from "@/assets/build.svg";
 import eventImg from "@/assets/event.svg";
 import windowImg from "@/assets/window.svg";
-import outDoor from "@/assets/outdoor.svg";
+import outDoor from "@/assets/outDoor.svg";
 import loundryImg from "@/assets/laundry.svg";
 import { ShoppingCartIcon } from "lucide-react";
 import sofaImg from "@/assets/sofa.svg";
