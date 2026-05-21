@@ -20,7 +20,7 @@ export default function FooterComponent() {
 
   return (
     <footer className="w-full bg-green-100/20 text-zinc-800 border-t border-zinc-200">
-      <div className="mx-auto max-w-7xl px-4 py-16 sm:py-20">
+      <div className="mx-auto max-w-6xl px-4 py-16 sm:py-20">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10 lg:gap-8">
           <div className="flex flex-col gap-4">
             <a href="/" className="flex items-center shrink-0 group">
